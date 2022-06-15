@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixelator/static/css/main.d4a01415.css",
+    "main.js": "/pixelator/static/js/main.ad74d9ba.js",
+    "static/js/787.40973fee.chunk.js": "/pixelator/static/js/787.40973fee.chunk.js",
+    "index.html": "/pixelator/index.html",
+    "main.d4a01415.css.map": "/pixelator/static/css/main.d4a01415.css.map",
+    "main.ad74d9ba.js.map": "/pixelator/static/js/main.ad74d9ba.js.map",
+    "787.40973fee.chunk.js.map": "/pixelator/static/js/787.40973fee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a01415.css",
+    "static/js/main.ad74d9ba.js"
+  ]
+}
